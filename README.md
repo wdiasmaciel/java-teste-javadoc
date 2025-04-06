@@ -1,6 +1,6 @@
 # java-teste-javadoc
 
-Comando javadoc:
+Comandos:
 
 ```
 javac Main.java Pessoa.java produto/Produto.java
@@ -10,4 +10,6 @@ javac Main.java Pessoa.java produto/Produto.java
 javadoc -d docs Main.java Pessoa.java produto/Produto.java
 ~~~
 
-```java Main```
+```
+java Main
+```
