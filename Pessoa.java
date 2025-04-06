@@ -2,13 +2,11 @@
  * Classe Pessoa.
  */
 public class Pessoa {
-    /**
-     * @param nome da pessoa.
-     * /
     private String nome;
 
     /**
      * Construtor da classe Pessoa.
+     * @param nome da pessoa.
      */
     public Pessoa(String nome) {
         this.nome = nome;
